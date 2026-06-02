@@ -1,0 +1,2 @@
+# xlsx_to_line_select_output_folder
+xlsx文件转line文件，手动选择输入，手动选择输出
